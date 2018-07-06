@@ -1,0 +1,18 @@
+/* $blue: 'blue'; */
+
+.b-c {
+    color: blue;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.no-result-found{
+    width: 100%;
+    margin: auto;
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+}
+.m-a{
+    margin: auto !important;
+}
